@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1577667882969.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1199177398",
+    "id" : "F0D68A2D",
+    "lastKnownWriteTime" : 1577676366,
+    "last_content_update" : 1577676366128,
+    "path" : "D:/RWorkspace/PRML_Practice/Chapter1/LinearReg.R",
+    "project_path" : "Chapter1/LinearReg.R",
+    "properties" : {
+        "cursorPosition" : "22,0",
+        "scrollLine" : "13"
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
